@@ -1,5 +1,5 @@
 {
-name = "HLBots",
-    ownerid = "eoXwgd1Cl2",
-    secret = "45cec464381fe7df37eae4b7ca65123d5c0af5eac927f9531297eaa088750ff6",
+    "name" : "HLBots",
+    "ownerid" : "eoXwgd1Cl2",
+    "secret" : "45cec464381fe7df37eae4b7ca65123d5c0af5eac927f9531297eaa088750ff6"
 }
